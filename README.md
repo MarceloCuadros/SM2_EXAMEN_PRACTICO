@@ -1,5 +1,7 @@
 # Examen Práctico - Unidad II
 
+https://github.com/MarceloCuadros/SM2_EXAMEN_PRACTICO
+
 ## Descripción del Proyecto
 
 Este proyecto implementa dos funcionalidades clave del sistema de soporte técnico:
